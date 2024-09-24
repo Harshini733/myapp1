@@ -4,6 +4,7 @@ public class Employee {
 	private int employeId;
 	private String employeeName;
 	private double employeeSalary;
+	private String employeeEmail;
 	public int getEmployeId() {
 		return employeId;
 	}
